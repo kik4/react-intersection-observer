@@ -5,7 +5,6 @@ node_modules
 reports
 example
 lib/
-dist/
 coverage/
 nuget
 npm-debug.log*
